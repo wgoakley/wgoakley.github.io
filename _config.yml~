@@ -7,7 +7,7 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Will Oakley, Applied Math PhD Student'
+title:            'Will Oakley: A Social Mathematician'
 tagline:          'Webiste for Will Oakley'
 description:      'Research and business website for Will Oakley'
 url:              'willoak.com'
