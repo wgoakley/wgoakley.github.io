@@ -37,7 +37,7 @@ gplus:          'https://plus.google.com/u/2/106898968362854912138/about/p/pub'
 gahandler: 'UA-53655642-1'
 
 # Disqus
-disqushandler: 'wgoakley'
+disqushandler: 'willoak'
 
 # Blog Configurations
 paginate: 3 # Posts per page on the blog index
