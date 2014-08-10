@@ -69,11 +69,6 @@ Objective: To use the PhD program at UCLA as a jumping off point to founding and
 				<h5>May 2012 - July 2012</h5>
 				<p>Undergraduate Researcher</p>
 			</li>
-			<li>
-				<h4>Honeywell Technology Solutions</h4>
-				<h5>December 2006 - December 2008</h5>
-				<p>Worked as Project Trainee & later Software Engineer</p>
-			</li>
 		</ul>
 	</div>
 </section>	
